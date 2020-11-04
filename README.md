@@ -1,3 +1,3 @@
-Development moved to https://gitlab.com/blacknet-ninja
+Development moved to https://gitlab.com/JUNDCOIN-JDC
+https://jundcoin.com.br iam  continuar na rede JUNDCOIN.
 
-https://jundcoin.org/ aims to continue on JUNDCOIN chain.
